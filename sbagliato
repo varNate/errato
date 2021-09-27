@@ -1,0 +1,18 @@
+<html>
+<head>
+<style>
+table, th, td {
+    border: 1px solid red;
+	
+}
+ </style>
+ </head>
+  <body>
+  <body>
+  <table >
+   <td>
+   <tr style="background-color: red width: 60%">Milena</td>
+   <tr style="background-color: blue;">Zerbin</td>
+  </td>
+  </table>
+  </html>
